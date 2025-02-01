@@ -13,9 +13,6 @@
 [submodule "fw/OFW"]
 	path = fw/OFW
 	url = https://github.com/flipperdevices/flipperzero-firmware
-[submodule "wifiPenTool"]
-	path = wifiPenTool
-	url = https://github.com/FroggMaster/ESP32-Wi-Fi-Penetration-Tool
 [submodule "fw/unleashed"]
 	path = fw/unleashed
 	url = https://github.com/Eng1n33r/flipperzero-firmware.git
