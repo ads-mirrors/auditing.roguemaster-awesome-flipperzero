@@ -1296,6 +1296,34 @@ Min level: 8
 Max level: 30
 Weight: 9
 
+Name: RM_pso2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: RM_Anime2025_1_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: RM_Anime2025_2_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
+Name: RM_Anime2025_3_128x64
+Min butthurt: 0
+Max butthurt: 14
+Min level: 1
+Max level: 30
+Weight: 9
+
 Name: RM_AikaZer0_128x64
 Min butthurt: 0
 Max butthurt: 14
